@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/criterium.svg)](https://clojars.org/criterium)
+
 # Criterium
 
 Criterium measures the computation time of an expression.  It is
